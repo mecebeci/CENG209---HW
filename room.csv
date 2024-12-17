@@ -1,0 +1,9 @@
+room_name,room_description,enemy,talisman,item,password
+Start,You are at the beginning,NULL,NULL,NULL,NULL
+Enemy – 1,Enemy Encounter: Serret,Serret,NULL,NULL,NULL
+Orm Embar’s Hollow,Welcome to Orm Embar’s Hollow. There are Talisman of the Eternal Flame and Dragon’s Heartstone.,NULL,Talisman of the Eternal Flame,Dragon’s Heartstone,DragonFlame88
+Talisman – 1,You can use your Talisman: Talisman of the Eternal Flame in this room.,NULL,NULL,NULL,NULL
+Enemy – 2,Enemy Encounter: Yevaud,Yevaud,NULL,NULL,NULL
+Reliquary of Erreth-Akbe,You stand within the Reliquary of Erreth-Akbe. There are Talisman of the World’s Edge and Chronomancer’s Hourglass,NULL,Talisman of the World’s Edge,Chronomancer’s Hourglass,WorldEdge21
+Talisman – 2,You can use your Talisman: Talisman of the World’s Edge in this room.,NULL,NULL,NULL,NULL
+Enemy – 3,Enemy Encounter: Erreth-Akbe,Erreth-Akbe,NULL,NULL,NULL
