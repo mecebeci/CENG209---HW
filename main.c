@@ -159,6 +159,7 @@ int main() {
                             attack_session(player, room_array[player->current_location].enemy);
                             if(final_flag == true){
                                 end();
+                                sleep(5);
                                 return 0;
                             }
                             if(lose_flag == true){
